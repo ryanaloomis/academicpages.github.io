@@ -26,69 +26,21 @@ Single line blockquote:
 
 ## Tables
 
+| Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-
-
-<div class="container">
-    <h2>Scientific Interests</h2>
-    Star and planet formation, protoplanetary disks, exoplanets, statistics, radio astronomy, transients, instrumentation.
-</div>
-
-<div class="container">
-    <h2>Education</h2>
-  <table class="table table-striped">
-      <tr>
-      <td>2012 - 2016</td>
-      <td>Ph.D. <em>Astronomy and Astrophysics</em>, Harvard University</td>
-      </tr>
-      <tr>
-      <td>2010 - 2012</td>
-      <td>Masters of Arts in <em>Astronomy and Astrophysics</em>, Harvard University</td>
-      </tr>
-      <tr>
-      <td>2006 - 2010</td>
-      <td>Bachelors of Science in <em>Aerospace Engineering; Astronomy</em>, University of Virginia <br>
-      Graduated with High Distinction, Tau Beta Pi, Jefferson Scholar (full scholarship)</td>
-      </tr>
-  </table>
-</div>
-
-
-<div class="container">
-    <h2>Scientific Research</h2>
-  <table class="table table-striped">
-      <tr>
-          <td>2013 - 2016</td>
-          <td><strong>Ph.D. Thesis</strong>: <em>The Fundamental Properties of Young Stars</em>, CfA, advised by Dr. Sean Andrews</td>
-      </tr>
-      <tr>
-          <td> 2012 </td>
-          <td><em>MMTCam Commissioning</em>, CfA, advised by Dr. Warren Brown</td>
-      </tr>
-      <tr>
-          <td>2010 - 2012 </td>
-          <td><strong>Masters project</strong>: <em>Intermediate Luminosity Transients</em>, CfA, advised by Dr. Edo Berger</td>
-      </tr>
-      <tr>
-          <td>2009 - 2010 </td>
-          <td><em>PAPER Instrumentation Study</em>, University of Virginia, advised by Dr. Richard Bradley</td>
-      </tr>
-      <tr>
-          <td>2009 - 2010</td>
-          <td><em>ALMA Collaborative Engineering Study</em>, Santiago, Chile, advised by Drs. Kelsey Johnson and Alison Peck</td>
-      </tr>
-      <tr>
-          <td>2009</td>
-          <td><em>Circumstellar Disks</em>, Smithsonian Astrophysical Observatory REU Intern, advised by Dr. Sean Andrews</td>
-      </tr>
-  </table>
-</div>
-
-
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
 
 ## Definition Lists
 

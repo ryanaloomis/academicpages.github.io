@@ -27,11 +27,66 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-| Entry            | Item   |                                                              |
+
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+
+<div class="container">
+    <h2>Education</h2>
+  <table class="table table-striped">
+      <tr>
+      <td>2015 - Present</td>
+      <td>Ph.D. Candidate <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Oberg</td>
+      </tr>
+      <tr>
+      <td>2013 - 2015</td>
+      <td>Masters of Arts in <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Oberg</td>
+      </tr>
+      <tr>
+      <td>2009 - 2013</td>
+      <td>Bachelors of Science in <em>Chemistry, Specialization in Chemical-Physics</em>, University of Virginia <br>
+      Graduated with High Distinction</td>
+      </tr>
+  </table>
+</div>
+
+<div class="container">
+    <h2>Scientific Interests</h2>
+    Star and planet formation, protoplanetary disks, exoplanets, statistics, radio astronomy, transients, instrumentation.
+</div>
+
+<div class="container">
+    <h2>Scientific Research</h2>
+  <table class="table table-striped">
+      <tr>
+          <td>2013 - 2016</td>
+          <td><strong>Ph.D. Thesis</strong>: <em>The Fundamental Properties of Young Stars</em>, CfA, advised by Dr. Sean Andrews</td>
+      </tr>
+      <tr>
+          <td> 2012 </td>
+          <td><em>MMTCam Commissioning</em>, CfA, advised by Dr. Warren Brown</td>
+      </tr>
+      <tr>
+          <td>2010 - 2012 </td>
+          <td><strong>Masters project</strong>: <em>Intermediate Luminosity Transients</em>, CfA, advised by Dr. Edo Berger</td>
+      </tr>
+      <tr>
+          <td>2009 - 2010 </td>
+          <td><em>PAPER Instrumentation Study</em>, University of Virginia, advised by Dr. Richard Bradley</td>
+      </tr>
+      <tr>
+          <td>2009 - 2010</td>
+          <td><em>ALMA Collaborative Engineering Study</em>, Santiago, Chile, advised by Drs. Kelsey Johnson and Alison Peck</td>
+      </tr>
+      <tr>
+          <td>2009</td>
+          <td><em>Circumstellar Disks</em>, Smithsonian Astrophysical Observatory REU Intern, advised by Dr. Sean Andrews</td>
+      </tr>
+  </table>
+</div>
 
 
 EDUCATION:
