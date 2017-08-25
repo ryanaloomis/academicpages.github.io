@@ -28,47 +28,6 @@ Work experience
   * Supervisor: Professor Hub
   
 
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-
-
-<table>
-  <thead>
-    <tr>
-      <th width="200">Table Header</th>
-      <th>Table Header</th>
-      <th width="150">Table Header</th>
-      <th width="150">Table Header</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Content Goes Here</td>
-      <td>This is longer content Donec id elit non mi porta gravida at eget metus.</td>
-      <td>Content Goes Here</td>
-      <td>Content Goes Here</td>
-    </tr>
-    <tr>
-      <td>Content Goes Here</td>
-      <td>This is longer Content Goes Here Donec id elit non mi porta gravida at eget metus.</td>
-      <td>Content Goes Here</td>
-      <td>Content Goes Here</td>
-    </tr>
-    <tr>
-      <td>Content Goes Here</td>
-      <td>This is longer Content Goes Here Donec id elit non mi porta gravida at eget metus.</td>
-      <td>Content Goes Here</td>
-      <td>Content Goes Here</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
 
 <div class="container">
     <h2>Education</h2>
@@ -83,93 +42,89 @@ Work experience
       </tr>
       <tr>
       <td>2009 - 2013</td>
-      <td>Bachelors of Science in <em>Chemistry, Specialization in Chemical-Physics</em>, University of Virginia <br>
-      Graduated with High Distinction</td>
+      <td>Bachelors of Science in <em>Chemistry, Specialization in Chemical-Physics</em>, University of Virginia, Graduated with Highest Distinction</br>
+          Bachelors of Arts in <em>Astronomy-Physics</em>, University of Virginia, Graduated with Highest Distinction</td>
       </tr>
   </table>
 </div>
 
 <div class="container">
-    <h2>Scientific Interests</h2>
-    Star and planet formation, protoplanetary disks, exoplanets, statistics, radio astronomy, transients, instrumentation.
-</div>
-
-<div class="container">
-    <h2>Scientific Research</h2>
+    <h2>Research Interests</h2>
   <table class="table table-striped">
       <tr>
-          <td>2013 - 2016</td>
-          <td><strong>Ph.D. Thesis</strong>: <em>The Fundamental Properties of Young Stars</em>, CfA, advised by Dr. Sean Andrews</td>
+      <td>Radio interferometric imaging and signal processing</td>
       </tr>
       <tr>
-          <td> 2012 </td>
-          <td><em>MMTCam Commissioning</em>, CfA, advised by Dr. Warren Brown</td>
+      <td>Star and planet formation</td>
       </tr>
       <tr>
-          <td>2010 - 2012 </td>
-          <td><strong>Masters project</strong>: <em>Intermediate Luminosity Transients</em>, CfA, advised by Dr. Edo Berger</td>
+      <td>Chemical complexity in protoplanetary disks</td>
+      </tr>
+  </table>
+</div>
+
+<div class="container">
+    <h2>Honors and Awards</h2>
+  <table class="table table-striped">
+      <tr>
+      <td>2013 - Present</td>
+      <td>NSF Graduate Research Fellowship</td>
       </tr>
       <tr>
-          <td>2009 - 2010 </td>
-          <td><em>PAPER Instrumentation Study</em>, University of Virginia, advised by Dr. Richard Bradley</td>
+      <td>2014</td>
+      <td>1st Place Poster, “Revolution in Astronomy with ALMA” Conference</td>
       </tr>
       <tr>
-          <td>2009 - 2010</td>
-          <td><em>ALMA Collaborative Engineering Study</em>, Santiago, Chile, advised by Drs. Kelsey Johnson and Alison Peck</td>
+      <td>2013</td>
+      <td>James Mills Peirce Fellowship, Astronomy Dept, Harvard University</td>
       </tr>
       <tr>
-          <td>2009</td>
-          <td><em>Circumstellar Disks</em>, Smithsonian Astrophysical Observatory REU Intern, advised by Dr. Sean Andrews</td>
+      <td>2013</td>
+      <td>Limber Award, Astronomy Dept., UVA</td>
+      </tr>
+      <tr>
+      <td>2013</td>
+      <td>Hugh Miller Spencer Award, Chemistry Dept., UVA</td>
+      </tr>
+      <tr>
+      <td>2012</td>
+      <td>Deaver Scholarship, Physics Dept., UVA</td>
+      </tr>
+      <tr>
+      <td>2012</td>
+      <td>Virginia Space Grant Consortium Research Scholarship</td>
+      </tr>
+      <tr>
+      <td>2012</td>
+      <td>John B. Adger Scholarship, Chemistry Dept., UVA</td>
+      </tr>
+      <tr>
+      <td>2012</td>
+      <td>Raven Society Scholarship, UVA</td>
+      </tr>
+      <tr>
+      <td>2012</td>
+      <td>1st Place Undergraduate Poster, UVA Presidential Poster Competition</td>
+      </tr>
+      <tr>
+      <td>2012</td>
+      <td>2nd Place Presentation, UVA Physics Research Symposium</td>
+      </tr>
+      <tr>
+      <td>2009</td>
+      <td>Jack Horkheimer Service Award, Astronomical League</td>
+      </tr>
+      <tr>
+      <td>2005</td>
+      <td>Eagle Scout</td>
       </tr>
   </table>
 </div>
 
 
-EDUCATION:
-
-2015 – present    PhD Candidate, Harvard University, Cambridge, MA
-2013 – 2015   Masters of Arts in Astronomy and Astrophysics, Harvard University
-2009 – 2013     Bachelor of Science, Chemistry, Specialization in Chemical-Physics
-        Graduation with Highest Distinction, University of Virginia, Charlottesville, VA
-        Bachelor of Arts, Astronomy-Physics
-        Graduation with Highest Distinction, University of Virginia
-
-RESEARCH INTERESTS:
-
-• Novel methods of radio astronomy data analysis
-• Chemistry within protoplanetary disks
-• Formation chemistry and detection of prebiotic interstellar molecules
-
-HONORS AND AWARDS:
-
-2014    1st Place Poster, “Revolution in Astronomy with ALMA” Conference
-2013    James Mills Peirce Fellowship, Astronomy Dept, Harvard University
-2013-present  NSF Graduate Research Fellowship
-2013    Limber Award, Astronomy Dept., UVA
-2013    Hugh Miller Spencer Award, Chemistry Dept., UVA
-2012    2nd Place Presentation, UVA Physics Research Symposium
-2012    Deaver Scholarship, Physics Dept., UVA
-2012    Honorable Mention, Goldwater Scholarship
-2012    1st Place Undergraduate Poster, UVA Presidential Poster Competition
-2012    Virginia Space Grant Consortium Research Scholarship
-2012    John B. Adger Scholarship, Chemistry Dept., UVA
-2012    Raven Society Scholarship, UVA
-2009    Jack Horkheimer Service Award, Astronomical League
-2009    National Merit Scholar
-2005    Eagle Scout
 
 
 
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
