@@ -203,10 +203,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _software
   - scope:
       path: ""
-      type: teaching
+      type: software
     values:
       layout: single
       author_profile: true
@@ -221,10 +221,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true

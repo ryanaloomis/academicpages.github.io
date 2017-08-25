@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ryan A. Loomis!
-
-+Lorem Ipsum
+I'm a graduate student at the Harvard-Smithsonian Center for Astrophysics, working with Karin \"Oberg. 
