@@ -15,11 +15,11 @@ redirect_from:
   <table class="table table-striped">
       <tr>
       <td>2015 - Present</td>
-      <td>Ph.D. Candidate <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Oberg</td>
+      <td>Ph.D. Candidate <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Öberg</td>
       </tr>
       <tr>
       <td>2013 - 2015</td>
-      <td>Masters of Arts in <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Oberg</td>
+      <td>Masters of Arts in <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Öberg</td>
       </tr>
       <tr>
       <td>2009 - 2013</td>
@@ -109,42 +109,42 @@ redirect_from:
   <h2>Selected Publications: 6 first author, 20 total</h2>
   <table class="table table-striped">
     <tr>
-      <td><a href="?"><em>Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering</em></a><br>
-      <strong>Ryan A. Loomis</strong>, K. I. Oberg, S. M. Andrews, C. Walsh, I. Czekala, J. Huang<br>
+      <td><a href="?" style="color:blue;"><em>Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering</em></a><br>
+      <strong>Ryan A. Loomis</strong>, K. I. Öberg, S. M. Andrews, C. Walsh, I. Czekala, J. Huang<br>
       Submitted to the Astronomical Journal 2017. </td>
     </tr>
     <tr>
       <td><a href="http://adsabs.harvard.edu/abs/2017ApJ...840...23L" style="color:blue;"><em>A Multi-Ringed, Modestly-Inclined Protoplanetary Disk around AA Tau</em></a><br />
-      <strong>R. A. Loomis</strong>, K. I. Oberg, S. M. Andrews, M. A. MacGregor<br />
+      <strong>R. A. Loomis</strong>, K. I. Öberg, S. M. Andrews, M. A. MacGregor<br />
       The Astrophysical Journal, Volume 840, Issue 1, article id. 23, 8 pp. (2017)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2016MNRAS.463.4175L"><em>Non-detection of HC11N towards TMC-1: constraining the chemistry of large carbon-chain molecules</em></a><br />
+      <td><a href="http://adsabs.harvard.edu/abs/2016MNRAS.463.4175L" style="color:blue;"><em>Non-detection of HC11N towards TMC-1: constraining the chemistry of large carbon-chain molecules</em></a><br />
       <strong>R. A. Loomis</strong>, C. N. Shingledecker, G. Langston, B. A. McGuire, N. M. Dollhopf, A. M. Burkhardt, J. F. Corby, S. T. Booth, P. B. Carroll, B. Turner, A. J. Remijan<br />
       Monthly Notices of the Royal Astronomical Society, Volume 463, Issue 4, p. 4175-4183 (2016)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2015ApJ...809L..25L"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br />
-      <strong>R. A. Loomis</strong>, L. I. Cleeves, K. I. Oberg, V. V. Guzman, S. M. Andrews<br />
+      <td><a href="http://adsabs.harvard.edu/abs/2015ApJ...809L..25L" style="color:blue;"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br />
+      <strong>R. A. Loomis</strong>, L. I. Cleeves, K. I. Öberg, V. V. Guzman, S. M. Andrews<br />
       The Astrophysical Journal Letters, Volume 809, Issue 2, article id. L25, 6 pp. (2015)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2015ApJ...799...34L"><em>Investigating the Minimum Energy Principle in Searches for New Molecular Species – the Case of H¬2C3O Isomers</em></a><br />
+      <td><a href="http://adsabs.harvard.edu/abs/2015ApJ...799...34L" style="color:blue;"><em>Investigating the Minimum Energy Principle in Searches for New Molecular Species – the Case of H¬2C3O Isomers</em></a><br />
       <strong>R. A. Loomis</strong>, B. A. McGuire, C. N. Shingledecker, C. H. Johnson, S. Blair, A. Robertson, A. J. Remijan<br />
       The Astrophysical Journal, Volume 799, Issue 1, article id. 34, 8 pp. (2015)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2013ApJ...765L...9L"><em>The Detection of Interstellar Ethanimine (CH3CHNH) from Observations taken during the GBT PRIMOS Survey</em></a><br />
+      <td><a href="http://adsabs.harvard.edu/abs/2013ApJ...765L...9L" style="color:blue;"><em>The Detection of Interstellar Ethanimine (CH3CHNH) from Observations taken during the GBT PRIMOS Survey</em></a><br />
       <strong>R. A. Loomis</strong>, D. P. Zaleski, A. L. Steber, J. L. Neill, M. T. Muckle, B. J. Harris, J. M. Hollis, P. R. Jewell, V. Lattanzi, F. J. Lovas, O. Martinez Jr., M. C. McCarthy, A. J. Remijan, B. H. Pate, J. F. Corby<br />
       The Astrophysical Journal Letters, Volume 765, Issue 1, article id. L9, 7 pp. (2013)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2016ApJ...823L..10W"><em>First Detection of Gas-phase Methanol in a Protoplanetary Disk</em></a><br />
-      C. Walsh, <strong>R. A. Loomis</strong>, K. I. Oberg, M. Kama, M. L. R. van't Hoff, T. J. Millar, Y. Aikawa, E. Herbst, S. L. Widicus Weaver, H. Nomura<br />
+      <td><a href="http://adsabs.harvard.edu/abs/2016ApJ...823L..10W" style="color:blue;"><em>First Detection of Gas-phase Methanol in a Protoplanetary Disk</em></a><br />
+      C. Walsh, <strong>R. A. Loomis</strong>, K. I. Öberg, M. Kama, M. L. R. van't Hoff, T. J. Millar, Y. Aikawa, E. Herbst, S. L. Widicus Weaver, H. Nomura<br />
       The Astrophysical Journal Letters, Volume 823, Issue 1, article id. L10, 7 pp. (2016)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2012ApJ...758L..33M"><em>Interstellar Carbodiimide (HNCNH): A New Astronomical Detection from the GBT PRIMOS Survey via Maser Emission Features</em></a><br />
+      <td><a href="http://adsabs.harvard.edu/abs/2012ApJ...758L..33M" style="color:blue;"><em>Interstellar Carbodiimide (HNCNH): A New Astronomical Detection from the GBT PRIMOS Survey via Maser Emission Features</em></a><br />
       B. A. McGuire, <strong>R. A. Loomis</strong>, C. M. Charness, J. F. Corby, G. A. Blake, J. M. Hollis, F. J. Lovas, P. R. Jewell, A. J. Remijan<br />
       The Astrophysical Journal Letters, Volume 758, Issue 2, article id. L33, 6 pp. (2012)</td>
     </tr>
@@ -246,23 +246,23 @@ redirect_from:
     <h2>Selected Posters</h2>
   <table class="table table-striped">
     <tr>
-      <td><a href="?"><em>Matched Filter Analysis as a New Method of Weak Line Detection</em></a><br/>
+      <td><a href="?" style="color:blue;"><em>Matched Filter Analysis as a New Method of Weak Line Detection</em></a><br/>
         Half a Decade of ALMA: Cosmic Dawns Transformed; Palm Springs, CA, 2016</td>
     </tr>
     <tr>
-      <td><a href="?"><em>Distribution and Excitation of CN in TW Hya</em></a><br/>
+      <td><a href="?" style="color:blue;"><em>Distribution and Excitation of CN in TW Hya</em></a><br/>
         Protoplanetary Discussions, Edinburgh, UK, 2016</td>
     </tr>
     <tr>
-      <td><a href="?"><em>The Distribution and Chemistry of H2CO in DM Tau</em></a><br/>
+      <td><a href="?" style="color:blue;"><em>The Distribution and Chemistry of H2CO in DM Tau</em></a><br/>
         Origins of Solar Systems Gordon Research Conference, Mt Holyoke College, MA, 2015</td>
     </tr>
     <tr>
-      <td><a href="?"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
+      <td><a href="?" style="color:blue;"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
         Simons Origins of Life Initiative Conference, NYC, NY, 2015</td>
     </tr>
     <tr>
-      <td><a href="?"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
+      <td><a href="?" style="color:blue;"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
         Revolution in Astronomy with ALMA – The Third Year, Tokyo, Japan, 2014</td>
     </tr>
   </table>
