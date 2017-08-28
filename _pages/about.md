@@ -7,5 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a graduate student at the Harvard-Smithsonian Center for Astrophysics, working with Karin \"Oberg. 
+I'm a graduate student at the Harvard-Smithsonian Center for Astrophysics, working with Karin Öberg. 
