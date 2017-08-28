@@ -38,9 +38,9 @@ tr, td, th {
 }
 
 tr:nth-of-type(odd) {
-    background-color: teal;
+  background-color: $teal;
 }
 
 tr:nth-of-type(even) {
-    background-color: orange;
+  background-color: $orange;
 }
