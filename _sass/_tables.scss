@@ -29,8 +29,14 @@ th {
 
 td {
   padding: 0.5em;
+  border-bottom: 1px solid $light-gray;
+  border-right: 1px solid $light-gray;
 }
 
 tr, td, th {
   vertical-align: middle;
+}
+
+tr:nth-of-type(odd) {
+  background-color: $light-gray;
 }
