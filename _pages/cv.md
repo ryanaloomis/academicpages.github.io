@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<body link="blue">
 <div class="container">
     <h2>Education</h2>
   <table class="table table-striped">
@@ -123,7 +124,7 @@ redirect_from:
       Monthly Notices of the Royal Astronomical Society, Volume 463, Issue 4, p. 4175-4183 (2016)</td>
     </tr>
     <tr>
-      <td><a href="http://adsabs.harvard.edu/abs/2015ApJ...809L..25L"><em>The Distribution and Chemistry of H¬2CO in the DM Tau Protoplanetary Disk</em></a><br />
+      <td><a href="http://adsabs.harvard.edu/abs/2015ApJ...809L..25L"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br />
       <strong>R. A. Loomis</strong>, L. I. Cleeves, K. I. Oberg, V. V. Guzman, S. M. Andrews<br />
       The Astrophysical Journal Letters, Volume 809, Issue 2, article id. L25, 6 pp. (2015)</td>
     </tr>
