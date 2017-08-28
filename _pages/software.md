@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Software"
 permalink: /software/
 author_profile: true
 redirect_from:
@@ -20,7 +19,7 @@ _vis_sample_ - fast visibility sampling in Python
 ======
 Analysis of interferometric data often requires transforming between the image plane and the incompletely sampled _uv_ plane (ie when comparing a model to data). The _uvmodel_ task accomplishes this purpose in Miriad, but is not easily incorporated into a Python script.
 
-To fill this niche, we have developed _vis_sample_, a Python-based implementation of the visibility sampling algorithm behind _uvmodel_. By using Peter Williams' [casa-python package](), it natively interfaces with CASA Measurement Sets, as well as UVFITS files. Fast and simple to use, _vis_sample_ is especially useful for MCMC analysis of interferometric datasets.
+To fill this niche, we have developed _vis_sample_, a Python-based implementation of the visibility sampling algorithm behind _uvmodel_. By using Peter Williams' [casa-python package](), _vis_sample_ natively interfaces with CASA Measurement Sets, as well as UVFITS files. Fast and simple to use, _vis_sample_ is especially useful for MCMC analysis of interferometric datasets.
 
 _vis_sample_ is publicly available on both [Github]() and the [Anaconda Cloud](), and is a dependency for _VISIBLE_.
 
