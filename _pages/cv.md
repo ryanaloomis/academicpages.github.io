@@ -113,7 +113,11 @@ redirect_from:
       Submitted to the Astronomical Journal 2017. </td>
     </tr>
     <tr>
-      <td>[<em>A Multi-Ringed, Modestly-Inclined Protoplanetary Disk around AA Tau</em>]("http://adsabs.harvard.edu/abs/2017ApJ...840...23L")<br />
+      <td>
+
+      [_A Multi-Ringed, Modestly-Inclined Protoplanetary Disk around AA Tau_]("http://adsabs.harvard.edu/abs/2017ApJ...840...23L")
+
+      <br />
       <strong>R. A. Loomis</strong>, K. I. Oberg, S. M. Andrews, M. A. MacGregor<br />
       The Astrophysical Journal, Volume 840, Issue 1, article id. 23, 8 pp. (2017)</td>
     </tr>
