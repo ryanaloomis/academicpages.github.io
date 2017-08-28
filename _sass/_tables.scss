@@ -2,6 +2,8 @@
    TABLES
    ========================================================================== */
 
+$snow: #fffafa;
+
 table {
   margin-bottom: 1em;
   width: 100%;
@@ -38,5 +40,5 @@ tr, td, th {
 }
 
 tr:nth-of-type(odd) {
-  background-color: #fffafa;
+  background-color: $snow;
 }
