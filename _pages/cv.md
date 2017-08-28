@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-blah
 <div class="container">
     <h2>Education</h2>
   <table class="table table-striped">
@@ -33,7 +31,7 @@ blah
     <h2>Research Interests</h2>
   <table class="table table-striped">
       <tr>
-      <td>Radio interferometric imaging and signal processing</td>
+      <td>Developing new techniques for radio interferometric imaging and data analysis</td>
       </tr>
       <tr>
       <td>Star and planet formation</td>
@@ -177,7 +175,8 @@ blah
     <tr>
       <td>Aug 2016</td>
       <td>ALMA Cycle 4, A-Priority; 2 hours Band 6; ID: 2016.1.01205.S<br>
-      <em>Resolving substructure in the AA Tau transition disk</em></td>
+      <em>Resolving substructure in the AA Tau transition disk</em><br>
+      Awarded $19,921 in Student Observing Support</td>
     </tr>
     <tr>
       <td>Aug 2016</td>
@@ -190,14 +189,40 @@ blah
       <em>Remote Detection of Organics in Enceladus' Plume</em></td>
     </tr>
     <tr>
+      <td>Sept 2015</td>
+      <td>SMA, 2 Filler Tracks; ID: 2015A-S078<br>
+      <em>A Search for (CO-)Gas in Edge-on Circumstellar Disks</em></td>
+    </tr>
+    <tr>
       <td>Aug 2015</td>
       <td>ALMA Cycle 3, A-Priority; 4 hours Band 6/7; ID: 2015.1.01017.S<br>
-      <em>Direct Imaging of Vertical Structure in an Edge-on Protoplanetary Disk</em></td>
+      <em>Direct Imaging of Vertical Structure in an Edge-on Protoplanetary Disk</em><br>
+      Awarded $32,000 in Student Observing Support</td>
+    </tr>
+    <tr>
+      <td>Apr 2015</td>
+      <td>VLA, C-Priority, 4 hours K Band BnA configuration; ID: 15A-038<br>
+      <em>Imaging the Complex Chemical Evolution Around a Solar-type Protostar</em></td>
+    </tr>
+    <tr>
+      <td>Feb 2015</td>
+      <td>ATCA, 12 hours; ID: C3034<br>
+      <em>Imaging the Complex Chemical Evolution Around a Solar-type Protostar</em></td>
+    </tr>
+    <tr>
+      <td>Aug 2014</td>
+      <td>VLA, B-Priority, 3 hours K Band DnC configuration; ID: 14B-411<br>
+      <em>Imaging the Complex Chemical Evolution Around a Solar-type Protostar</em></td>
     </tr>
     <tr>
       <td>Apr 2014</td>
       <td>ALMA Cycle 2, B-Priority; 5 hours Band 6/7; ID: 2013.1.01070.S<br>
       <em>Direct Imaging of Vertical Structure in an Edge-on Protoplanetary Disk</em></td>
+    </tr>
+    <tr>
+      <td>May 2013</td>
+      <td>GBT, C-Priority, 6 hours Q Band; ID: 13B-343<br>
+      <em>Exploration of Propynal Emission Source Size in TMC-1</em></td>
     </tr>
   </table>
 </div>
