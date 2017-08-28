@@ -9,7 +9,7 @@ table {
   width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
-  border: none;
+  border-collapse: collapse;
 
   & + table {
     margin-top: 1em;
