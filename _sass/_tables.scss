@@ -8,7 +8,6 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 1px solid $light-gray;
 
   & + table {
     margin-top: 1em;
@@ -35,12 +34,4 @@ td {
 
 tr, td, th {
   vertical-align: middle;
-}
-
-tr:nth-of-type(odd) {
-  background-color: $teal;
-}
-
-tr:nth-of-type(even) {
-  background-color: $orange;
 }
