@@ -16,7 +16,6 @@ redirect_from:
       <tr>
       <td>2015 - Present</td>
       <td>Ph.D. Candidate <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Öberg</td>
-      bgcolor="lighter-gray"
       </tr>
       <tr>
       <td>2013 - 2015</td>
