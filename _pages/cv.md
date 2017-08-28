@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-blah
 <div class="container">
     <h2>Education</h2>
   <table class="table table-striped">
