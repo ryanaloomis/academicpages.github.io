@@ -108,7 +108,7 @@ blah
   <h2>Selected Publications: 6 first author, 20 total</h2>
   <table class="table table-striped">
     <tr>
-      <td><a href="?" style="color:blue;"><em>Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering</em></a><br>
+      <td><em>Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering</em><br>
       <strong>Ryan A. Loomis</strong>, K. I. Öberg, S. M. Andrews, C. Walsh, I. Czekala, J. Huang<br>
       Submitted to the Astronomical Journal 2017. </td>
     </tr>
@@ -245,23 +245,23 @@ blah
     <h2>Selected Posters</h2>
   <table class="table table-striped">
     <tr>
-      <td><a href="?" style="color:blue;"><em>Matched Filter Analysis as a New Method of Weak Line Detection</em></a><br/>
+      <td><a href="?"><em>Matched Filter Analysis as a New Method of Weak Line Detection</em></a><br/>
         Half a Decade of ALMA: Cosmic Dawns Transformed; Palm Springs, CA, 2016</td>
     </tr>
     <tr>
-      <td><a href="?" style="color:blue;"><em>Distribution and Excitation of CN in TW Hya</em></a><br/>
+      <td><a href="?"><em>Distribution and Excitation of CN in TW Hya</em></a><br/>
         Protoplanetary Discussions, Edinburgh, UK, 2016</td>
     </tr>
     <tr>
-      <td><a href="?" style="color:blue;"><em>The Distribution and Chemistry of H2CO in DM Tau</em></a><br/>
+      <td><a href="?"><em>The Distribution and Chemistry of H2CO in DM Tau</em></a><br/>
         Origins of Solar Systems Gordon Research Conference, Mt Holyoke College, MA, 2015</td>
     </tr>
     <tr>
-      <td><a href="?" style="color:blue;"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
+      <td><a href="?"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
         Simons Origins of Life Initiative Conference, NYC, NY, 2015</td>
     </tr>
     <tr>
-      <td><a href="?" style="color:blue;"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
+      <td><a href="?"><em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></a><br/>
         Revolution in Astronomy with ALMA – The Third Year, Tokyo, Japan, 2014</td>
     </tr>
   </table>

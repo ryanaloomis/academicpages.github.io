@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ryan A. Loomis"
   avatar           : "headshot.png"
-  bio              : "Graduate student at Harvard-Smithsonian CfA."
+  bio              : "Graduate student at Harvard-Smithsonian CfA.  \nOffice: A112  \nPhone: (540) 241-5990  \nEmail: rloomis@cfa.harvard.edu"
   location         : "Cambridge, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Fk9nCKQAAAAJ&hl=en"
