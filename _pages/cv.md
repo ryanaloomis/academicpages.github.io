@@ -189,7 +189,7 @@ redirect_from:
       <em>Remote Detection of Organics in Enceladus' Plume</em></td>
     </tr>
     <tr>
-      <td>Sept 2015</td>
+      <td>Sep 2015</td>
       <td>SMA, 2 Filler Tracks; ID: 2015A-S078<br>
       <em>A Search for (CO-)Gas in Edge-on Circumstellar Disks</em></td>
     </tr>
@@ -233,7 +233,7 @@ redirect_from:
   <table class="table table-striped">
     <tr>
       <td>Oct 12, 2016</td>
-      <td>Calibration and Imaging (CALIM) Workshop, Socorro, NM; <em>A tunable weighting scheme for imaging extended sources</em>
+      <td>Calibration and Imaging (CALIM) Workshop, Socorro, NM; <em>A tunable weighting scheme for imaging extended sources</em></td>
     </tr>
     <tr>
       <td>Mar 15, 2016</td>
@@ -269,6 +269,22 @@ redirect_from:
 <div class="container">
     <h2>Selected Posters</h2>
   <table class="table table-striped">
+    <tr>
+      <td><a href="?"><em>Structural and Chemical Complexity in Protoplanetary Disks</em></a><br/>
+        Origins of Solar Systems Gordon Research Conference, Mt Holyoke College, MA, 2017</td>
+    </tr>
+    <tr>
+      <td><a href="?"><em>Detecting weak spectral lines in interferometeric data through matched fltering</em></a><br/>
+        Origins of Solar Systems Gordon Research Seminar, Mt Holyoke College, MA, 2017</td>
+    </tr>
+    <tr>
+      <td><a href="?"><em>Using Matched Filtering to Detect Complex Organic Molecules in Disks</em></a><br/>
+        Simons Origins of Life Initiative Conference, NYC, NY, 2017</td>
+    </tr>
+    <tr>
+      <td><a href="?"><em>Structural and Chemical Complexity in Protoplanetary Disks</em></a><br/>
+        IAUS 332: Astrochemistry VII - Through the Cosmos from Galaxies to Planets; Puerto Varas, Chile, 2017</td>
+    </tr>
     <tr>
       <td><a href="?"><em>Matched Filter Analysis as a New Method of Weak Line Detection</em></a><br/>
         Half a Decade of ALMA: Cosmic Dawns Transformed; Palm Springs, CA, 2016</td>
