@@ -12,16 +12,16 @@ redirect_from:
   <table class="table table-striped">
       <tr>
       <td>2015 - Present</td>
-      <td>Ph.D. Candidate <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Öberg</td>
+      <td>Ph.D. Candidate, Astronomy and Astrophysics, Harvard University, advised by Karin I. Öberg</td>
       </tr>
       <tr>
       <td>2013 - 2015</td>
-      <td>Masters of Arts in <em>Astronomy and Astrophysics</em>, Harvard University, advised by Karin I. Öberg</td>
+      <td>Masters of Arts, Astronomy and Astrophysics, Harvard University, advised by Karin I. Öberg</td>
       </tr>
       <tr>
       <td>2009 - 2013</td>
-      <td>Bachelors of Science in <em>Chemistry, Specialization in Chemical-Physics</em>, University of Virginia, Graduated with Highest Distinction <br>
-          Bachelors of Arts in <em>Astronomy-Physics</em>, University of Virginia, Graduated with Highest Distinction</td>
+      <td>Bachelors of Science, Chemistry, Specialization in Chemical-Physics, University of Virginia, Graduated with Highest Distinction <br>
+          Bachelors of Arts, Astronomy-Physics, University of Virginia, Graduated with Highest Distinction</td>
       </tr>
   </table>
 </div>
@@ -56,19 +56,19 @@ redirect_from:
       </tr>
       <tr>
       <td>2013</td>
-      <td>James Mills Peirce Fellowship, Astronomy Dept, Harvard University</td>
+      <td>James Mills Peirce Fellowship, Harvard Astronomy Dept.</td>
       </tr>
       <tr>
       <td>2013</td>
-      <td>Limber Award, Astronomy Dept., UVA</td>
+      <td>Limber Award, UVA Astronomy Dept. </td>
       </tr>
       <tr>
       <td>2013</td>
-      <td>Hugh Miller Spencer Award, Chemistry Dept., UVA</td>
+      <td>Hugh Miller Spencer Award, UVA Chemistry Dept.</td>
       </tr>
       <tr>
       <td>2012</td>
-      <td>Deaver Scholarship, Physics Dept., UVA</td>
+      <td>Deaver Scholarship, UVA Physics Dept.</td>
       </tr>
       <tr>
       <td>2012</td>
@@ -76,7 +76,7 @@ redirect_from:
       </tr>
       <tr>
       <td>2012</td>
-      <td>John B. Adger Scholarship, Chemistry Dept., UVA</td>
+      <td>John B. Adger Scholarship, UVA Chemistry Dept.</td>
       </tr>
       <tr>
       <td>2012</td>
@@ -229,7 +229,7 @@ redirect_from:
 
 
 <div class="container">
-    <h2>Invited Talks and Presentations</h2>
+    <h2>Invited Talks</h2>
   <table class="table table-striped">
     <tr>
       <td>Oct 12, 2016</td>
@@ -240,6 +240,10 @@ redirect_from:
       <td>Astrochemistry Seminar, Leiden University, Netherlands; <em>Probing Complex Molecules in Protoplanetary Disks: A New Matched Filtering Technique</em></td>
     </tr>
     <tr>
+      <td>Oct 5, 2015</td>
+      <td>Exoplanet Lunch Talk, Harvard-Smithsonian CfA, Cambridge, MA; <em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></td>
+    </tr>
+    <tr>
       <td>May 12, 2015</td>
       <td>Lunch Talk, Australia Telescope National Facility, Marsfield, Australia; <em>The Distribution and Chemistry of H2CO in the DM Tau Protoplanetary Disk</em></td>
     </tr>
@@ -248,10 +252,10 @@ redirect_from:
 
 
 <div class="container">
-    <h2>Contributed Talks and Presentations</h2>
+    <h2>Contributed Talks</h2>
   <table class="table table-striped">
     <tr>
-      <td>Oct 17-28, 2016</td>
+      <td>Oct 17, 2016</td>
       <td>Half a Decade of ALMA: Cosmic Dawns Transformed, Palm Springs, CA; <em>AA Tau: A Surprise Transition Disk</em></td>
     </tr>
     <tr>
