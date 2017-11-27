@@ -118,6 +118,8 @@ include:
   - _pages
   - files
   - CH3CN.pdf
+  - adaptive_Briggs.pdf
+  - matched_filter.pdf
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
